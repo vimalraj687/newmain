@@ -2,8 +2,8 @@
 
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
-import Chat from '../../chat-app/src/Chat';
-import Email from '../../email-app/src/Email';
+// import Chat from '../../chat-app/src/Chat';
+// import Email from '../../email-app/src/Email';
  
 const App = () => {
     return (
